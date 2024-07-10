@@ -1,0 +1,8 @@
+D:\C#\lab1\ex2\bin\Debug\ex2.exe.config
+D:\C#\lab1\ex2\bin\Debug\ex2.exe
+D:\C#\lab1\ex2\bin\Debug\ex2.pdb
+D:\C#\lab1\ex2\obj\Debug\ex2.csproj.AssemblyReference.cache
+D:\C#\lab1\ex2\obj\Debug\ex2.csproj.SuggestedBindingRedirects.cache
+D:\C#\lab1\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+D:\C#\lab1\ex2\obj\Debug\ex2.exe
+D:\C#\lab1\ex2\obj\Debug\ex2.pdb

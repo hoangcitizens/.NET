@@ -1,0 +1,8 @@
+D:\C#\baitaptrenlop\NguyenHuuHoang_tuan5_22-3\NguyenHuuHoang_tuan5_22-3\bin\Debug\NguyenHuuHoang_tuan5_22-3.exe.config
+D:\C#\baitaptrenlop\NguyenHuuHoang_tuan5_22-3\NguyenHuuHoang_tuan5_22-3\bin\Debug\NguyenHuuHoang_tuan5_22-3.exe
+D:\C#\baitaptrenlop\NguyenHuuHoang_tuan5_22-3\NguyenHuuHoang_tuan5_22-3\bin\Debug\NguyenHuuHoang_tuan5_22-3.pdb
+D:\C#\baitaptrenlop\NguyenHuuHoang_tuan5_22-3\NguyenHuuHoang_tuan5_22-3\obj\Debug\NguyenHuuHoang_tuan5_22-3.csproj.AssemblyReference.cache
+D:\C#\baitaptrenlop\NguyenHuuHoang_tuan5_22-3\NguyenHuuHoang_tuan5_22-3\obj\Debug\NguyenHuuHoang_tuan5_22-3.csproj.SuggestedBindingRedirects.cache
+D:\C#\baitaptrenlop\NguyenHuuHoang_tuan5_22-3\NguyenHuuHoang_tuan5_22-3\obj\Debug\NguyenHuuHoang_tuan5_22-3.csproj.CoreCompileInputs.cache
+D:\C#\baitaptrenlop\NguyenHuuHoang_tuan5_22-3\NguyenHuuHoang_tuan5_22-3\obj\Debug\NguyenHuuHoang_tuan5_22-3.exe
+D:\C#\baitaptrenlop\NguyenHuuHoang_tuan5_22-3\NguyenHuuHoang_tuan5_22-3\obj\Debug\NguyenHuuHoang_tuan5_22-3.pdb

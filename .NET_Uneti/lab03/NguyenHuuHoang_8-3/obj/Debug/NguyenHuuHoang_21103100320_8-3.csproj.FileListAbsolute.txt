@@ -1,0 +1,8 @@
+D:\C#\NguyenHuuHoang_8-3\NguyenHuuHoang_8-3\bin\Debug\NguyenHuuHoang_8-3.exe.config
+D:\C#\NguyenHuuHoang_8-3\NguyenHuuHoang_8-3\bin\Debug\NguyenHuuHoang_8-3.exe
+D:\C#\NguyenHuuHoang_8-3\NguyenHuuHoang_8-3\bin\Debug\NguyenHuuHoang_8-3.pdb
+D:\C#\NguyenHuuHoang_8-3\NguyenHuuHoang_8-3\obj\Debug\NguyenHuuHoang_21103100320_8-3.csproj.AssemblyReference.cache
+D:\C#\NguyenHuuHoang_8-3\NguyenHuuHoang_8-3\obj\Debug\NguyenHuuHoang_21103100320_8-3.csproj.SuggestedBindingRedirects.cache
+D:\C#\NguyenHuuHoang_8-3\NguyenHuuHoang_8-3\obj\Debug\NguyenHuuHoang_21103100320_8-3.csproj.CoreCompileInputs.cache
+D:\C#\NguyenHuuHoang_8-3\NguyenHuuHoang_8-3\obj\Debug\NguyenHuuHoang_8-3.exe
+D:\C#\NguyenHuuHoang_8-3\NguyenHuuHoang_8-3\obj\Debug\NguyenHuuHoang_8-3.pdb

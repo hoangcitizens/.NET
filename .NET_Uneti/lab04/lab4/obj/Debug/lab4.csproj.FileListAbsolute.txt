@@ -1,0 +1,16 @@
+D:\C#\lab3\lab3\bin\Debug\lab3.exe.config
+D:\C#\lab3\lab3\bin\Debug\lab3.exe
+D:\C#\lab3\lab3\bin\Debug\lab3.pdb
+D:\C#\lab3\lab3\obj\Debug\lab4.csproj.AssemblyReference.cache
+D:\C#\lab3\lab3\obj\Debug\lab4.csproj.SuggestedBindingRedirects.cache
+D:\C#\lab3\lab3\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+D:\C#\lab3\lab3\obj\Debug\lab3.exe
+D:\C#\lab3\lab3\obj\Debug\lab3.pdb
+D:\C#\lab4\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+D:\C#\lab4\lab4\obj\Debug\lab4.csproj.SuggestedBindingRedirects.cache
+D:\C#\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+D:\C#\lab4\lab4\obj\Debug\lab3.exe
+D:\C#\lab4\lab4\obj\Debug\lab3.pdb
+D:\C#\lab4\lab4\bin\Debug\lab3.exe.config
+D:\C#\lab4\lab4\bin\Debug\lab3.exe
+D:\C#\lab4\lab4\bin\Debug\lab3.pdb

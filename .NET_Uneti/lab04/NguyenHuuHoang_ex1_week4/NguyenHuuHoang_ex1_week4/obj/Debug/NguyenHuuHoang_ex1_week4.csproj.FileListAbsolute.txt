@@ -1,0 +1,16 @@
+D:\C#\NguyenHuuHoang_week4\NguyenHuuHoang_week4\bin\Debug\NguyenHuuHoang_week4.exe.config
+D:\C#\NguyenHuuHoang_week4\NguyenHuuHoang_week4\bin\Debug\NguyenHuuHoang_week4.exe
+D:\C#\NguyenHuuHoang_week4\NguyenHuuHoang_week4\bin\Debug\NguyenHuuHoang_week4.pdb
+D:\C#\NguyenHuuHoang_week4\NguyenHuuHoang_week4\obj\Debug\NguyenHuuHoang_ex1_week4.csproj.AssemblyReference.cache
+D:\C#\NguyenHuuHoang_week4\NguyenHuuHoang_week4\obj\Debug\NguyenHuuHoang_ex1_week4.csproj.SuggestedBindingRedirects.cache
+D:\C#\NguyenHuuHoang_week4\NguyenHuuHoang_week4\obj\Debug\NguyenHuuHoang_ex1_week4.csproj.CoreCompileInputs.cache
+D:\C#\NguyenHuuHoang_week4\NguyenHuuHoang_week4\obj\Debug\NguyenHuuHoang_week4.exe
+D:\C#\NguyenHuuHoang_week4\NguyenHuuHoang_week4\obj\Debug\NguyenHuuHoang_week4.pdb
+D:\C#\NguyenHuuHoang_ex1_week4\NguyenHuuHoang_ex1_week4\bin\Debug\NguyenHuuHoang_week4.exe.config
+D:\C#\NguyenHuuHoang_ex1_week4\NguyenHuuHoang_ex1_week4\bin\Debug\NguyenHuuHoang_week4.exe
+D:\C#\NguyenHuuHoang_ex1_week4\NguyenHuuHoang_ex1_week4\bin\Debug\NguyenHuuHoang_week4.pdb
+D:\C#\NguyenHuuHoang_ex1_week4\NguyenHuuHoang_ex1_week4\obj\Debug\NguyenHuuHoang_ex1_week4.csproj.AssemblyReference.cache
+D:\C#\NguyenHuuHoang_ex1_week4\NguyenHuuHoang_ex1_week4\obj\Debug\NguyenHuuHoang_ex1_week4.csproj.SuggestedBindingRedirects.cache
+D:\C#\NguyenHuuHoang_ex1_week4\NguyenHuuHoang_ex1_week4\obj\Debug\NguyenHuuHoang_ex1_week4.csproj.CoreCompileInputs.cache
+D:\C#\NguyenHuuHoang_ex1_week4\NguyenHuuHoang_ex1_week4\obj\Debug\NguyenHuuHoang_week4.exe
+D:\C#\NguyenHuuHoang_ex1_week4\NguyenHuuHoang_ex1_week4\obj\Debug\NguyenHuuHoang_week4.pdb

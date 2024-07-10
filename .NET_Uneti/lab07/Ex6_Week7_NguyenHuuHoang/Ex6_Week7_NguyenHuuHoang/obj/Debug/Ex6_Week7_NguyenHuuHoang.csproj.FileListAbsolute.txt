@@ -1,0 +1,11 @@
+D:\C#\lab7\Ex6_Week7_NguyenHuuHoang\Ex6_Week7_NguyenHuuHoang\bin\Debug\Ex6_Week7_NguyenHuuHoang.exe.config
+D:\C#\lab7\Ex6_Week7_NguyenHuuHoang\Ex6_Week7_NguyenHuuHoang\bin\Debug\Ex6_Week7_NguyenHuuHoang.exe
+D:\C#\lab7\Ex6_Week7_NguyenHuuHoang\Ex6_Week7_NguyenHuuHoang\bin\Debug\Ex6_Week7_NguyenHuuHoang.pdb
+D:\C#\lab7\Ex6_Week7_NguyenHuuHoang\Ex6_Week7_NguyenHuuHoang\obj\Debug\Ex6_Week7_NguyenHuuHoang.csproj.AssemblyReference.cache
+D:\C#\lab7\Ex6_Week7_NguyenHuuHoang\Ex6_Week7_NguyenHuuHoang\obj\Debug\Ex6_Week7_NguyenHuuHoang.csproj.SuggestedBindingRedirects.cache
+D:\C#\lab7\Ex6_Week7_NguyenHuuHoang\Ex6_Week7_NguyenHuuHoang\obj\Debug\Ex6_Week7_NguyenHuuHoang.Form1.resources
+D:\C#\lab7\Ex6_Week7_NguyenHuuHoang\Ex6_Week7_NguyenHuuHoang\obj\Debug\Ex6_Week7_NguyenHuuHoang.Properties.Resources.resources
+D:\C#\lab7\Ex6_Week7_NguyenHuuHoang\Ex6_Week7_NguyenHuuHoang\obj\Debug\Ex6_Week7_NguyenHuuHoang.csproj.GenerateResource.cache
+D:\C#\lab7\Ex6_Week7_NguyenHuuHoang\Ex6_Week7_NguyenHuuHoang\obj\Debug\Ex6_Week7_NguyenHuuHoang.csproj.CoreCompileInputs.cache
+D:\C#\lab7\Ex6_Week7_NguyenHuuHoang\Ex6_Week7_NguyenHuuHoang\obj\Debug\Ex6_Week7_NguyenHuuHoang.exe
+D:\C#\lab7\Ex6_Week7_NguyenHuuHoang\Ex6_Week7_NguyenHuuHoang\obj\Debug\Ex6_Week7_NguyenHuuHoang.pdb

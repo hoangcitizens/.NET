@@ -1,0 +1,8 @@
+D:\C#\lab5\lab5\Event\bin\Debug\Event.exe.config
+D:\C#\lab5\lab5\Event\bin\Debug\Event.exe
+D:\C#\lab5\lab5\Event\bin\Debug\Event.pdb
+D:\C#\lab5\lab5\Event\obj\Debug\Event.csproj.AssemblyReference.cache
+D:\C#\lab5\lab5\Event\obj\Debug\Event.csproj.SuggestedBindingRedirects.cache
+D:\C#\lab5\lab5\Event\obj\Debug\Event.csproj.CoreCompileInputs.cache
+D:\C#\lab5\lab5\Event\obj\Debug\Event.exe
+D:\C#\lab5\lab5\Event\obj\Debug\Event.pdb

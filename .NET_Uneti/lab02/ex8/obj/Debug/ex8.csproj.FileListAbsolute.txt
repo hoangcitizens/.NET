@@ -1,0 +1,8 @@
+D:\C#\lab2\ex8\bin\Debug\ex8.exe.config
+D:\C#\lab2\ex8\bin\Debug\ex8.exe
+D:\C#\lab2\ex8\bin\Debug\ex8.pdb
+D:\C#\lab2\ex8\obj\Debug\ex8.csproj.AssemblyReference.cache
+D:\C#\lab2\ex8\obj\Debug\ex8.csproj.SuggestedBindingRedirects.cache
+D:\C#\lab2\ex8\obj\Debug\ex8.csproj.CoreCompileInputs.cache
+D:\C#\lab2\ex8\obj\Debug\ex8.exe
+D:\C#\lab2\ex8\obj\Debug\ex8.pdb

@@ -1,0 +1,1 @@
+﻿select count(MaSV) from SinhVien where MaKhoa='1'

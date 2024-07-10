@@ -1,0 +1,8 @@
+D:\C#\lab5\lab5\EventDelegateSinhVien\bin\Debug\EventDelegateSinhVien.exe.config
+D:\C#\lab5\lab5\EventDelegateSinhVien\bin\Debug\EventDelegateSinhVien.exe
+D:\C#\lab5\lab5\EventDelegateSinhVien\bin\Debug\EventDelegateSinhVien.pdb
+D:\C#\lab5\lab5\EventDelegateSinhVien\obj\Debug\EventDelegateSinhVien.csproj.AssemblyReference.cache
+D:\C#\lab5\lab5\EventDelegateSinhVien\obj\Debug\EventDelegateSinhVien.csproj.SuggestedBindingRedirects.cache
+D:\C#\lab5\lab5\EventDelegateSinhVien\obj\Debug\EventDelegateSinhVien.csproj.CoreCompileInputs.cache
+D:\C#\lab5\lab5\EventDelegateSinhVien\obj\Debug\EventDelegateSinhVien.exe
+D:\C#\lab5\lab5\EventDelegateSinhVien\obj\Debug\EventDelegateSinhVien.pdb
