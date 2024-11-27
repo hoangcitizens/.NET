@@ -1,0 +1,8 @@
+D:\Practice_.NET_Uneti\lab07\7.1_FileText_VD3\bin\Debug\7.1_FileText_VD3.exe.config
+D:\Practice_.NET_Uneti\lab07\7.1_FileText_VD3\bin\Debug\7.1_FileText_VD3.exe
+D:\Practice_.NET_Uneti\lab07\7.1_FileText_VD3\bin\Debug\7.1_FileText_VD3.pdb
+D:\Practice_.NET_Uneti\lab07\7.1_FileText_VD3\obj\Debug\7.1_FileText_VD3.csproj.AssemblyReference.cache
+D:\Practice_.NET_Uneti\lab07\7.1_FileText_VD3\obj\Debug\7.1_FileText_VD3.csproj.SuggestedBindingRedirects.cache
+D:\Practice_.NET_Uneti\lab07\7.1_FileText_VD3\obj\Debug\7.1_FileText_VD3.csproj.CoreCompileInputs.cache
+D:\Practice_.NET_Uneti\lab07\7.1_FileText_VD3\obj\Debug\7.1_FileText_VD3.exe
+D:\Practice_.NET_Uneti\lab07\7.1_FileText_VD3\obj\Debug\7.1_FileText_VD3.pdb

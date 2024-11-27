@@ -1,0 +1,8 @@
+D:\.NET\lab01\VD3\bin\Debug\VD3.exe.config
+D:\.NET\lab01\VD3\bin\Debug\VD3.exe
+D:\.NET\lab01\VD3\bin\Debug\VD3.pdb
+D:\.NET\lab01\VD3\obj\Debug\VD3.csproj.AssemblyReference.cache
+D:\.NET\lab01\VD3\obj\Debug\VD3.csproj.SuggestedBindingRedirects.cache
+D:\.NET\lab01\VD3\obj\Debug\VD3.csproj.CoreCompileInputs.cache
+D:\.NET\lab01\VD3\obj\Debug\VD3.exe
+D:\.NET\lab01\VD3\obj\Debug\VD3.pdb

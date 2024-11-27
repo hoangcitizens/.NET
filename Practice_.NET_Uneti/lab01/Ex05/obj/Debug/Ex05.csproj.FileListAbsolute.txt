@@ -1,0 +1,8 @@
+D:\.NET\lab01\Ex05\bin\Debug\Ex05.exe.config
+D:\.NET\lab01\Ex05\bin\Debug\Ex05.exe
+D:\.NET\lab01\Ex05\bin\Debug\Ex05.pdb
+D:\.NET\lab01\Ex05\obj\Debug\Ex05.csproj.AssemblyReference.cache
+D:\.NET\lab01\Ex05\obj\Debug\Ex05.csproj.SuggestedBindingRedirects.cache
+D:\.NET\lab01\Ex05\obj\Debug\Ex05.csproj.CoreCompileInputs.cache
+D:\.NET\lab01\Ex05\obj\Debug\Ex05.exe
+D:\.NET\lab01\Ex05\obj\Debug\Ex05.pdb

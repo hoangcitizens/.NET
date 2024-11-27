@@ -1,0 +1,8 @@
+D:\.NET\lab01\VD2\bin\Debug\VD2.exe.config
+D:\.NET\lab01\VD2\bin\Debug\VD2.exe
+D:\.NET\lab01\VD2\bin\Debug\VD2.pdb
+D:\.NET\lab01\VD2\obj\Debug\VD2.csproj.AssemblyReference.cache
+D:\.NET\lab01\VD2\obj\Debug\VD2.csproj.SuggestedBindingRedirects.cache
+D:\.NET\lab01\VD2\obj\Debug\VD2.csproj.CoreCompileInputs.cache
+D:\.NET\lab01\VD2\obj\Debug\VD2.exe
+D:\.NET\lab01\VD2\obj\Debug\VD2.pdb

@@ -1,0 +1,8 @@
+D:\Practice_.NET_Uneti\lab02\lab02\Ex02_Abstract\bin\Debug\Ex02_Abstract.exe.config
+D:\Practice_.NET_Uneti\lab02\lab02\Ex02_Abstract\bin\Debug\Ex02_Abstract.exe
+D:\Practice_.NET_Uneti\lab02\lab02\Ex02_Abstract\bin\Debug\Ex02_Abstract.pdb
+D:\Practice_.NET_Uneti\lab02\lab02\Ex02_Abstract\obj\Debug\VD02_Abstract.csproj.AssemblyReference.cache
+D:\Practice_.NET_Uneti\lab02\lab02\Ex02_Abstract\obj\Debug\VD02_Abstract.csproj.SuggestedBindingRedirects.cache
+D:\Practice_.NET_Uneti\lab02\lab02\Ex02_Abstract\obj\Debug\VD02_Abstract.csproj.CoreCompileInputs.cache
+D:\Practice_.NET_Uneti\lab02\lab02\Ex02_Abstract\obj\Debug\Ex02_Abstract.exe
+D:\Practice_.NET_Uneti\lab02\lab02\Ex02_Abstract\obj\Debug\Ex02_Abstract.pdb

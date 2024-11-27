@@ -1,0 +1,8 @@
+D:\Practice_.NET_Uneti\lab03\3.2a_ArrayList\bin\Debug\3.2a_ArrayList.exe.config
+D:\Practice_.NET_Uneti\lab03\3.2a_ArrayList\bin\Debug\3.2a_ArrayList.exe
+D:\Practice_.NET_Uneti\lab03\3.2a_ArrayList\bin\Debug\3.2a_ArrayList.pdb
+D:\Practice_.NET_Uneti\lab03\3.2a_ArrayList\obj\Debug\3.2a_ArrayList.csproj.AssemblyReference.cache
+D:\Practice_.NET_Uneti\lab03\3.2a_ArrayList\obj\Debug\3.2a_ArrayList.csproj.SuggestedBindingRedirects.cache
+D:\Practice_.NET_Uneti\lab03\3.2a_ArrayList\obj\Debug\3.2a_ArrayList.csproj.CoreCompileInputs.cache
+D:\Practice_.NET_Uneti\lab03\3.2a_ArrayList\obj\Debug\3.2a_ArrayList.exe
+D:\Practice_.NET_Uneti\lab03\3.2a_ArrayList\obj\Debug\3.2a_ArrayList.pdb

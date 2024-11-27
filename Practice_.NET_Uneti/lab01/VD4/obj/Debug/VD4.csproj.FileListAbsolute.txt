@@ -1,0 +1,8 @@
+D:\.NET\lab01\VD4\bin\Debug\VD4.exe.config
+D:\.NET\lab01\VD4\bin\Debug\VD4.exe
+D:\.NET\lab01\VD4\bin\Debug\VD4.pdb
+D:\.NET\lab01\VD4\obj\Debug\VD4.csproj.AssemblyReference.cache
+D:\.NET\lab01\VD4\obj\Debug\VD4.csproj.SuggestedBindingRedirects.cache
+D:\.NET\lab01\VD4\obj\Debug\VD4.csproj.CoreCompileInputs.cache
+D:\.NET\lab01\VD4\obj\Debug\VD4.exe
+D:\.NET\lab01\VD4\obj\Debug\VD4.pdb

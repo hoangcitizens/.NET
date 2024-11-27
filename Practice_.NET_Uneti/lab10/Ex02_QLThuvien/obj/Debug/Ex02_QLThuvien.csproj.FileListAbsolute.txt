@@ -1,0 +1,11 @@
+D:\Practice_.NET_Uneti\lab10\Ex02_QLThuvien\bin\Debug\Ex02_QLThuvien.exe.config
+D:\Practice_.NET_Uneti\lab10\Ex02_QLThuvien\bin\Debug\Ex02_QLThuvien.exe
+D:\Practice_.NET_Uneti\lab10\Ex02_QLThuvien\bin\Debug\Ex02_QLThuvien.pdb
+D:\Practice_.NET_Uneti\lab10\Ex02_QLThuvien\obj\Debug\Ex02_QLThuvien.csproj.AssemblyReference.cache
+D:\Practice_.NET_Uneti\lab10\Ex02_QLThuvien\obj\Debug\Ex02_QLThuvien.csproj.SuggestedBindingRedirects.cache
+D:\Practice_.NET_Uneti\lab10\Ex02_QLThuvien\obj\Debug\Ex02_QLThuvien.Form1.resources
+D:\Practice_.NET_Uneti\lab10\Ex02_QLThuvien\obj\Debug\Ex02_QLThuvien.Properties.Resources.resources
+D:\Practice_.NET_Uneti\lab10\Ex02_QLThuvien\obj\Debug\Ex02_QLThuvien.csproj.GenerateResource.cache
+D:\Practice_.NET_Uneti\lab10\Ex02_QLThuvien\obj\Debug\Ex02_QLThuvien.csproj.CoreCompileInputs.cache
+D:\Practice_.NET_Uneti\lab10\Ex02_QLThuvien\obj\Debug\Ex02_QLThuvien.exe
+D:\Practice_.NET_Uneti\lab10\Ex02_QLThuvien\obj\Debug\Ex02_QLThuvien.pdb

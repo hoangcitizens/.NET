@@ -1,0 +1,11 @@
+D:\Practice_.NET_Uneti\lab03\Ex03_Lab03\bin\Debug\Ex03_Lab03.exe.config
+D:\Practice_.NET_Uneti\lab03\Ex03_Lab03\bin\Debug\Ex03_Lab03.exe
+D:\Practice_.NET_Uneti\lab03\Ex03_Lab03\bin\Debug\Ex03_Lab03.pdb
+D:\Practice_.NET_Uneti\lab03\Ex03_Lab03\obj\Debug\Ex03_Lab03.csproj.AssemblyReference.cache
+D:\Practice_.NET_Uneti\lab03\Ex03_Lab03\obj\Debug\Ex03_Lab03.csproj.SuggestedBindingRedirects.cache
+D:\Practice_.NET_Uneti\lab03\Ex03_Lab03\obj\Debug\Ex03_Lab03.frmBai.resources
+D:\Practice_.NET_Uneti\lab03\Ex03_Lab03\obj\Debug\Ex03_Lab03.Properties.Resources.resources
+D:\Practice_.NET_Uneti\lab03\Ex03_Lab03\obj\Debug\Ex03_Lab03.csproj.GenerateResource.cache
+D:\Practice_.NET_Uneti\lab03\Ex03_Lab03\obj\Debug\Ex03_Lab03.csproj.CoreCompileInputs.cache
+D:\Practice_.NET_Uneti\lab03\Ex03_Lab03\obj\Debug\Ex03_Lab03.exe
+D:\Practice_.NET_Uneti\lab03\Ex03_Lab03\obj\Debug\Ex03_Lab03.pdb
