@@ -1,0 +1,34 @@
+﻿@model List<De32.Models.HoaDonBan>
+@{
+    ViewBag.Title = "SoluongMax";
+}
+@if (Model != null && Model.Any())
+{
+    <table class="table table-bordered">
+        <tr>
+            <td>Mã HĐ</td>
+            <td>Mã sách</td>
+            <td>Tên sách</td>
+            <td>Ngày bán</td>
+            <td>Mã KH</td>
+            <td>Tên KH</td>
+            <td>Số lượng </td>
+        </tr>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@item.MaHD</td>
+            <td>@item.MaSach</td>
+            <td>@item.Sach.TenSach</td>
+            <td>@item.NgayBan</td>
+            <td>@item.MaKH</td>
+            <td>@item.KhachHang.HoTen</td>
+            <td>@item.SoLuong</td>
+        </tr>
+        }
+    </table>
+}
+else { @Html.Label("Không có") }
+
+
+

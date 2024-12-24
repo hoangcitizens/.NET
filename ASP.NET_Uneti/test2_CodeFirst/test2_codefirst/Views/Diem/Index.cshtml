@@ -1,0 +1,45 @@
+﻿@model IEnumerable<test2_codefirst.Models.Diem>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@{ Html.BeginForm();}
+@Html.Label("Họ tên: ")
+@Html.TextBox("searchString","", new { placeholder = "Nhập họ tên cần tìm: "})
+<input type="submit" value="Tìm kiếm"/>
+@{ Html.EndForm();}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.SinhVien.Hoten)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Diemmh)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.SinhVien.Hoten)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Diemmh)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new {  id=item.Masv, Tenmh = item.Tenmh }) |
+            @Html.ActionLink("Details", "Details", new { id = item.Masv, Tenmh = item.Tenmh }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.Masv, Tenmh = item.Tenmh })
+        </td>
+    </tr>
+}
+
+</table>

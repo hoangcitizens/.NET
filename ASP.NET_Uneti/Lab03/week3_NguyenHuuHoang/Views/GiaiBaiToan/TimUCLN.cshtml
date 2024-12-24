@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "NhapDLBT_TimUCLN";
+}
+
+<h2>Nhập dữ liệu - Tìm UCLN</h2>
+@{Html.BeginForm();}
+@Html.Label("Nhập số nguyên thứ nhất a = ")
+@Html.TextBox("a")
+<br />
+@Html.Label("Nhập số nguyên thứ hai b = ")
+@Html.TextBox("b")
+<br />
+<input type="submit" value="Tìm UCLN" />
+@{ Html.EndForm();}
+<h5>@ViewBag.msg</h5>
+

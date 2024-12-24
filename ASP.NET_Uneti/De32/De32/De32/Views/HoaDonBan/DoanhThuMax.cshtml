@@ -1,0 +1,32 @@
+﻿@model List<De32.Models.Sach>
+@{
+    ViewBag.Title = "DoanhThuMax";
+}
+@if (Model != null && Model.Any())
+{
+    <table class="table table-bordered">
+        <tr>
+            <td>Mã sách</td>
+            <td>Tên sách</td>
+            <td>Thể loại</td>
+            <td>Đơn giá</td>
+            <td>Số lượng tồn</td>
+            <td>Doanh thu</td>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.MaSach</td>
+                <td>@item.TenSach</td>
+                <td>@item.TheLoai</td>
+                <td>@item.DonGia</td>
+                <td>@item.SoLuongTon</td>
+                <td>@ViewBag.Max</td>
+            </tr>
+        }
+
+    </table>
+}
+else 
+{ @Html.Label("Không có")}
+

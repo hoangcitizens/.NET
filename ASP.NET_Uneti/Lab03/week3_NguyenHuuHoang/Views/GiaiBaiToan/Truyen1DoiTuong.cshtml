@@ -1,0 +1,44 @@
+﻿@using week3_NguyenHuuHoang.Models @model week3_NguyenHuuHoang.Models.Users
+@*@model week3_NguyenHuuHoang.Models.Users*@
+
+@{
+    ViewBag.Title = "Truyen1DoiTuong";
+}
+
+<h2>Truyền 1 đối tượng</h2>
+@{
+    Html.BeginForm("NhanDL", "GiaiBaiToan");
+}
+@Html.LabelFor(m => m.Id)
+@Html.EditorFor(m => m.Id)
+<br />
+@Html.LabelFor(m => m.Name)
+@Html.EditorFor(m => m.Name)
+<br />
+@Html.LabelFor(m => m.Address)
+@Html.DropDownList("UserAddress", new SelectList(Enum.GetValues(typeof(Address))),"Địa chỉ", new { @class = "form-control" })
+<br />
+@Html.LabelFor(m => m.Email)
+@Html.EditorFor(m => m.Email)
+<br />
+@Html.LabelFor(m => m.Password)
+@Html.EditorFor(m => m.Password)
+<br />
+@Html.LabelFor(m => m.Gender)
+@*@Html.EditorFor(m => m.Gender)*@
+Nam @Html.RadioButtonFor(m => m.Gender, true)
+Nữ @Html.RadioButtonFor(m => m.Gender, false)
+<br />
+<input type="submit" value="submit" />
+@{ Html.EndForm();}
+@*{ var user = ViewBag.user as week3_NguyenHuuHoang.Models.Users; }*@
+@*@{ var user = Model;}
+    <p>@user.Id</p>
+    <p>@user.Name</p>
+    <p>@user.Address</p>
+    <p>@user.Email</p>
+    <p>@user.Password</p>
+    <p>@user.Gender</p>*@
+
+
+

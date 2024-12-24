@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "InCacSoLe";
+}
+
+@{ 
+    int x = ViewBag.x;
+    int S = 0;
+    string msg = "";
+    for (int i = 0; i < x; i++)
+    {
+        if (i % 2 != 0)
+        {
+            msg += $"{i}, ";
+            S += i;
+        }
+    }
+}
+
+<h2>In các số lẻ và tính tổng các số lẻ trong phạm vi n</h2>
+<p>Các số lẻ từ 0 đến @x là:<br/> @msg</p>
+<p>Tổng các phần tử từ 0 đến @x là: <br /> @S </p>
+

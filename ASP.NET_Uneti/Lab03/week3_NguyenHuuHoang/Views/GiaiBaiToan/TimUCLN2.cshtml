@@ -1,0 +1,16 @@
+﻿@model week3_NguyenHuuHoang.Models.UCLN
+@{
+    ViewBag.Title = "TimUCLN2";
+}
+
+<h2>Tìm UCLN2 - Nguyễn Hữu Hoàng</h2>
+@using (Html.BeginForm())
+            {
+                @Html.LabelFor(model => model.a)
+    @Html.EditorFor(model => model.a)
+    <br />
+    @Html.LabelFor(model => model.b)
+    @Html.EditorFor(model => model.b)
+    <input type="submit" value="Tìm UCLN" />
+            }    
+<p>@ViewBag.msg</p>

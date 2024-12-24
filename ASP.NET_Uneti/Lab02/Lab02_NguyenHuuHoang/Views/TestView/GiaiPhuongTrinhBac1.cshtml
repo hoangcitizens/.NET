@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "GiaiPhuongTrinhBac1";
+}
+@{ 
+    decimal a = ViewBag.a;
+    decimal b = ViewBag.b;
+    string msg = $"Phương trình {a}x + {b} = 0\n";
+    // ax + b = 0
+    /* 
+       Nếu a = 0 thì pt <=> b = 0
+         + Nếu b == 0 thì pt vô số nghiệm
+         + Nếu b != 0 thì pt vô nghiệm
+       Nếu a!= 0 thì pt có 1 nghiệm x = -b/a
+    */
+    if (a == 0)
+    {
+        if (b == 0)
+        {
+            msg += " có vô số nghiệm !";
+        }
+        else
+        {
+            msg += " có vô nghiệm !";
+        }
+    }
+    else
+    {
+        msg += $" có 1 nghiệm là x = {-b / a}";
+    }
+}
+
+<h2>GiaiPhuongTrinhBac1</h2>
+<p>@msg</p>
+
